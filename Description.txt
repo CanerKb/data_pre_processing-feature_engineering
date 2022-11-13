@@ -2,3 +2,8 @@ Projede Data_Pre_Processing islemi ile baslar Feature_Engineering ile biter.
 
 Isteyenler bu asamalardan sonra Makine Ogrenmesi icin Model kurup Feature_Engineering de olusturduklari 
 degiskenlerin onem duzeylerinin cikti uzerindeki etksini gozlemleyebilirler. 
+Bu veri setinde; 
+  1) application_train.csv
+  2) course_reviews.csv
+  3) titanic.csv 
+ veri setleri kullanilmistir.
