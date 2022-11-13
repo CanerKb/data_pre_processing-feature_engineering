@@ -1,0 +1,4 @@
+Projede Data_Pre_Processing islemi ile baslar Feature_Engineering ile biter. 
+
+Isteyenler bu asamalardan sonra Makine Ogrenmesi icin Model kurup Feature_Engineering de olusturduklari 
+degiskenlerin onem duzeylerinin cikti uzerindeki etksini gozlemleyebilirler. 
